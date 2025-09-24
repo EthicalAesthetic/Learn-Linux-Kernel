@@ -65,7 +65,9 @@ Industry kernels often involve real-time tuning, security modules integration (S
 - Move into embedded systems, device drivers, or firmware development leveraging kernel knowledge.
 - Explore emerging fields such as machine learning, AI, big data analytics, and cybersecurity for broader CS exposure.
 
-By moving from the kernel as a foundational technology to these areas, the Linux kernel knowledge links to a broader computer science ecosystem
+## System Design Concepts
+
+By moving from the kernel as a foundational technology to these areas, the Linux kernel knowledge links to a broader computer science ecosystem.
 
 
 
