@@ -19,7 +19,9 @@
 **Step 8** - The users are presented with a login window. The system is now ready.
 
 
+
 ## Learning Video: 
 Watch this video for a visual explanation of the Linux boot process: [Linux Boot Process Overview](https://youtu.be/XpFsMB6FoOs?si=qpnfKc0njE5xBojg)
 
 [Another video](https://youtu.be/sebgrmiYdk4?si=iSTxZIX6teyKIhWy)
+
